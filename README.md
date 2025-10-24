@@ -40,8 +40,14 @@ Bu projenin geliştirilmesinde aşağıdaki temel teknolojiler kullanılmıştı
 
 ## 👨‍💻 Geliştirici
 
-| İsim | GitHub Profili |
-| :---: | :---: |
-| **Barış Saylık** | [github.com/gfbaris](https://github.com/gfbaris) |
+| İsim | GitHub Profili | LinkedIn Profili |
+| :---: | :---: | :---: |
+| **Barış Saylık** | [github.com/gfbaris](https://github.com/gfbaris) | [Barış Saylık](https://www.linkedin.com/in/bar%C4%B1%C5%9F-sayl%C4%B1k-85427b293/) |
 
 ---
+
+## 🔗 Canlı Uygulama
+
+Bu projeyi canlı olarak görüntülemek için aşağıdaki bağlantıyı kullanabilirsiniz:
+
+🌐 **[Uygulamayı Görüntüle](https://gfbaris.github.io/webKitaplik/)**
