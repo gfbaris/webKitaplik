@@ -1,4 +1,5 @@
-📚 Mini Kitaplık Uygulaması
+##📚 Mini Kitaplık Uygulaması
+
 Web Teknolojileri ve Programlama dersi kapsamında geliştirilmiş, React tabanlı bir kitaplık yönetim uygulamasıdır.
 🎯 Proje Hakkında
 Bu proje, kullanıcıların bir kitap koleksiyonunu yönetmesine, arama yapmasına, kategorilere göre filtrelemesine ve favori kitaplarını kaydetmesine olanak tanıyan bir web uygulamasıdır. Uygulama, modern web geliştirme prensipleri ve React bileşen yapısı kullanılarak geliştirilmiştir.
