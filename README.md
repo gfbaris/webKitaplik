@@ -1,16 +1,20 @@
-# React + Vite
+📚 Mini Kitaplık Uygulaması
+Web Teknolojileri ve Programlama dersi kapsamında geliştirilmiş, React tabanlı bir kitaplık yönetim uygulamasıdır.
+🎯 Proje Hakkında
+Bu proje, kullanıcıların bir kitap koleksiyonunu yönetmesine, arama yapmasına, kategorilere göre filtrelemesine ve favori kitaplarını kaydetmesine olanak tanıyan bir web uygulamasıdır. Uygulama, modern web geliştirme prensipleri ve React bileşen yapısı kullanılarak geliştirilmiştir.
+✨ Özellikler
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔍 Dinamik Arama: Kitap başlığı veya yazar adına göre gerçek zamanlı arama
+🏷️ Kategori Filtreleme: Web, CS ve Tasarım kategorilerine göre filtreleme
+⭐ Favori Yönetimi: Kitapları favorilere ekleme ve çıkarma
+💾 Veri Kalıcılığı: localStorage kullanarak favori ve arama geçmişini saklama
+📱 Responsive Tasarım: Farklı ekran boyutlarına uyumlu arayüz
 
-Currently, two official plugins are available:
+🛠️ Kullanılan Teknolojiler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React - Kullanıcı arayüzü geliştirme
+JavaScript - Programlama dili
+HTML5 & CSS3 - Yapı ve stil
+localStorage API - Veri kalıcılığı
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Bu proje, Süleyman Demirel Üniversitesi Web Teknolojileri ve Programlama dersi kapsamında geliştirilmiştir.
