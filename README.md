@@ -1,42 +1,47 @@
-📚 Mini Kitaplık Uygulaması
+# 📚 Mini Kitaplık Uygulaması
 
-Web Teknolojileri ve Programlama dersi kapsamında geliştirilmiş, React tabanlı bir kitaplık yönetim uygulamasıdır.
+✨ **React ile Güçlendirilmiş Modern Kitap Koleksiyonu Yönetimi** ✨
 
-🎯 Proje Hakkında
+---
 
-Bu proje, kullanıcıların bir kitap koleksiyonunu yönetmesine, arama yapmasına, kategorilere göre filtrelemesine ve favori kitaplarını kaydetmesine olanak tanıyan bir web uygulamasıdır.
-Uygulama, modern web geliştirme prensipleri ve React bileşen yapısı kullanılarak geliştirilmiştir.
+## 🚀 Proje Tanımı
 
-✨ Özellikler
+Bu proje, **Web Teknolojileri ve Programlama** dersi kapsamında geliştirilmiş, tamamen **React** tabanlı bir mini kitaplık yönetim uygulamasıdır. Kullanıcıların dijital bir kitap koleksiyonunu etkili bir şekilde yönetmelerini sağlayan, modern ve duyarlı bir web uygulamasıdır.
 
-🔍 Dinamik Arama: Kitap başlığı veya yazar adına göre gerçek zamanlı arama
+## 🎯 Temel Amaç
 
-🏷️ Kategori Filtreleme: Web, CS ve Tasarım kategorilerine göre filtreleme
+Kullanıcıların kitap koleksiyonunu kolayca yönetmesine, geniş bir veritabanında **arama** yapmasına, belirli **kategorilere göre filtreleme** yapmasına ve en sevdiği kitapları **favorilere** kaydetmesine olanak tanıyan tam fonksiyonel bir arayüz oluşturmak.
 
-⭐ Favori Yönetimi: Kitapları favorilere ekleme ve çıkarma
+Uygulama, en iyi modern web geliştirme prensipleri ve güçlü React bileşen yapısı kullanılarak sıfırdan geliştirilmiştir.
 
-💾 Veri Kalıcılığı: localStorage kullanarak favori ve arama geçmişini saklama
+## ⭐ Ana Özellikler
 
-📱 Responsive Tasarım: Farklı ekran boyutlarına uyumlu arayüz
+| Simge | Özellik Adı | Açıklama |
+| :---: | :--- | :--- |
+| 🔍 | **Dinamik Arama** | Kitap başlığı veya yazar adına göre **gerçek zamanlı** ve hızlı arama yapabilme. |
+| 🏷️ | **Kategori Filtreleme** | "Web", "CS" ve "Tasarım" gibi önceden tanımlanmış kategorilere göre koleksiyonu anında filtreleme. |
+| ⭐ | **Favori Yönetimi** | Tek tıklama ile kitapları favorilere ekleme ve çıkarma işlevselliği. |
+| 💾 | **Veri Kalıcılığı** | Kullanıcının favori listesi ve son arama geçmişi, tarayıcının **`localStorage`** API'si kullanılarak saklanır. |
+| 📱 | **Responsive Tasarım** | Mobil cihazlardan masaüstü ekranlara kadar tüm boyutlarda mükemmel kullanıcı deneyimi sağlayan duyarlı arayüz. |
 
-🛠️ Kullanılan Teknolojiler
+## 🛠️ Kullanılan Teknolojiler
 
-React – Kullanıcı arayüzü geliştirme
+Bu projenin geliştirilmesinde aşağıdaki temel teknolojiler kullanılmıştır:
 
-JavaScript – Programlama dili
+* **[React](https://reactjs.org/)**: Hızlı ve ölçeklenebilir kullanıcı arayüzleri oluşturmak için kullanılan popüler JavaScript kütüphanesi.
+* **JavaScript (ES6+)**: Uygulamanın temel programlama dili.
+* **HTML5 & CSS3**: Sayfa yapısı ve stil tanımlamaları.
+* **`localStorage` API**: Verilerin tarayıcıda yerel olarak saklanması ve kalıcılığı için.
 
-HTML5 & CSS3 – Yapı ve stil
+## 📝 Proje Notları
 
-localStorage API – Veri kalıcılığı
+* Bu uygulama, Süleyman Demirel Üniversitesi **Web Teknolojileri ve Programlama** dersi kapsamında bir öğrenci projesi olarak geliştirilmiştir.
+* Kod yapısı ve React bileşenlerinin organizasyonu, eğitim amaçlı ve referans niteliğinde olacak şekilde tasarlanmıştır.
 
-📂 Proje Hakkında Notlar
+## 👨‍💻 Geliştirici
 
-Bu proje, Süleyman Demirel Üniversitesi Web Teknolojileri ve Programlama dersi kapsamında geliştirilmiştir.
+| İsim | GitHub Profili |
+| :---: | :---: |
+| **Barış Saylık** | [github.com/gfbaris](https://github.com/gfbaris) |
 
-Kod yapısı ve React bileşenleri, eğitim amaçlı referans niteliğindedir.
-
-👨‍💻 Geliştirici
-
-Barış Saylık
-
-GitHub: https://github.com/gfbaris
+---
